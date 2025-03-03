@@ -3,12 +3,10 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+I have already installed osTicket on IIS.There are two login pages.One admin and end user open ticket login page.Created two agents(Jane and John) under admin page.Also added some SLA's.
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,7 +28,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step1:As an end-user, create the following ticket
+entire mobile/online banking system is down
+<p>
+<img src ="https://github.com/user-attachments/assets/f7d95f4b-00ae-41bf-9db6-25a9dd5a30d7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
