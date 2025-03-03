@@ -37,6 +37,9 @@ entire mobile/online banking system is down
 <p>
 <img src ="https://github.com/user-attachments/assets/643914b1-8860-4bfa-b956-a595b0cc063d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src ="https://github.com/user-attachments/assets/64e31689-62a0-48dc-8615-9b171805bd12" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 
 
