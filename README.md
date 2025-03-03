@@ -41,6 +41,24 @@ entire mobile/online banking system is down
 <img src ="https://github.com/user-attachments/assets/64e31689-62a0-48dc-8615-9b171805bd12" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
+<p> Step:2 As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+</p>
+<p>
+<img src ="https://github.com/user-attachments/assets/ec53087d-51c9-4b92-b5f0-9863d0be8dd8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src ="https://github.com/user-attachments/assets/21ec4226-7b03-4570-b706-27bb79db33cf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src ="https://github.com/user-attachments/assets/61dd34e0-2190-493c-9787-6198299f0038" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src ="https://github.com/user-attachments/assets/c5f274f8-13c3-4850-8f14-be1a85a98bf3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
